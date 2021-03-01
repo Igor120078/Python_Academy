@@ -1,1 +1,2 @@
-Repozitar kurzu Python Academy na portalu ENGETO.com
+# Kurz Python Academy na portalu ENGETO.com
+Repozitar projectu v ramci kurzu Python Academy

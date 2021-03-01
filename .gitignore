@@ -1,8 +1,9 @@
+.gitignore
 Study.py
 Test.py
 figurka.py
 Obesenec.py
 PythonAcademy_Nakup.py
 PythonAcademy_miniproject_01.py
-/.idea
-/Test
+/.idea/
+/Test/
